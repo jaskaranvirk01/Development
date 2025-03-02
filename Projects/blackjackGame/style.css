@@ -1,0 +1,23 @@
+h1{
+    color: goldenrod;
+    font-size: 3rem;
+}
+
+*{
+    text-align: center;
+    background-color: forestgreen;
+    color: hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+}
+
+.message-el{
+    font-style: italic;
+}
+
+
+.st-btn{
+    margin-top:0.25rem;
+    background-color: goldenrod;
+    color: forestgreen;
+    width: 10rem;
+}
